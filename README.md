@@ -1,2 +1,2 @@
 # Uni-Projects
-Contains projects I have completed/will have completed in the course of my uni life.
+The C project I submitted in my 1st year 2nd semester. Tried to make a scrabble game using C++, succeeded somewhat.
